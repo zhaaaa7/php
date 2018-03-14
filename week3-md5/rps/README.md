@@ -1,13 +1,9 @@
-Broken Rock Paper Scissors
---------------------------
+Login andRock Paper Scissors
 
-Here is a URL to the broken version of this application:
 
-http://www.wa4e.com/code/rps/
+Demo: http://sjzhao.byethost33.com/week3/rps/
 
-Here is a URL to a working version of this application:
-
-http://www.wa4e.com/solutions/rps/
-
+username: anything
+password: php123
 
 
