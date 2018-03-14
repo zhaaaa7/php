@@ -1,5 +1,6 @@
 Reverse Hash 
 
+Assignment specification: https://www.wa4e.com/assn/crack/
 
 This application uses a very simple brute force attack to 
 "reverse" an MD5 hash.  It is really not reversing the hash
