@@ -6,8 +6,7 @@
 ```php
 setcookie('zap', '42', time()+3600)
 ```
-Response hearders: set cookie
-                 : cookie
+
 4. sessions are little bit of data on the server, it is a random large number that is difficult to guess, stored in a temporary folder on disk
 5. To know which session goes into which browser ---— use cookies to select
 6. Unlike GET and Post, Session goes from request to request, but get cleaned after 20 minutes stopping browsing
