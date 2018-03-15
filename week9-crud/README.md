@@ -4,6 +4,6 @@ Assignment specification: https://www.wa4e.com/assn/autoscrud/
 
 Demo: http://sjzhao.byethost33.com/week9/
 
-email: anything
+    * email: anything
 
-password: php123
+    * password: php123
