@@ -48,7 +48,7 @@ if(isset($_POST["cancel"])){
 <body>
 <h1>Please Log In</h1>
 <?php
-//flashMessages();
+flashMessages();
 ?>
 <form method="post">
 <label for="who">Email</label>
