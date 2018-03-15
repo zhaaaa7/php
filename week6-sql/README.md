@@ -61,7 +61,7 @@ check the accuracy
 8. user2del.php: $sql="DELETE FROM users WHERE user_id = :zip”
 The placeholder can be anything as long as it matched the array key.
 
-9.sql injection: you are always in.
+9. sql injection: you are always in.
 ```
 $sql = "SELECT name FROM users WHERE email = '$e' AND password = '$p'";
 ```
@@ -72,7 +72,7 @@ $sql = "SELECT name FROM users WHERE email = :em AND password = :pw";
 When the statement is executed, the placeholders get replaced with the actual strings and everything is automatically escaped! ———— PDO do everything for you to avoid sql injection
 
 
-11. try ... catch
+10. try ... catch
 ```php
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 Catch error
